@@ -1,3 +1,2 @@
 # DSC180A-Methodology-3
-Jared Parra
-japarra@ucsd.edu
+Jared Parra and Gabriel Borjas-Perez
